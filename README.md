@@ -17,7 +17,6 @@ It will run the flask server on **localhost:5000** or **127.0.0.1:5000**
 ## Making a GET Request in Browser
 http://127.0.0.1:5000/get_user/user_value?query="query_value"
 
-## Response
 ![image](https://github.com/vishalr22/Create-Python-API/assets/58001028/e7791fbf-c5ba-460d-a2ee-01d8fe9c13e2)
 
 ## Making a POST Request using postman:
@@ -30,7 +29,6 @@ http://127.0.0.1:5000/get_user/user_value?query="query_value"
 - In the text area, enter your JSON payload. For example: <b>{"username": "Vishal Rawat"}</b>
 3. **Send the Request**: Hit the “Send” button to make the POST request.
 
-## Response
 ![image](https://github.com/vishalr22/Create-Python-API/assets/58001028/faedef5e-1156-43fb-8635-fe62be4256e0)
 
 ## Congratulations! You’ve reached the end of our journey in creating a simple Python API using Flask.
